@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f5a3ef52213e2642945652ba2abf877, type: 3}
+  m_Name: Wheat Seed
+  m_EditorClassIdentifier: 
+  ItemName: Wheat Seed
+  ItemInfo: 
+  ID: 1
+  TypeID: 4
+  BuyMoney: 5
+  SellMoney: 5
+  sprite: {fileID: 49793605, guid: dc4a33ea6463eec4b82bc299250da9a1, type: 3}
+  spritearray: []
+  neededItem: {fileID: 11400000, guid: 5d99b7cf0db2d8e499355303db7078b4, type: 2}
+  Crop: {fileID: 11400000, guid: 510a2399f7d62ca43a8ee989389a670a, type: 2}

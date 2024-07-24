@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f5a3ef52213e2642945652ba2abf877, type: 3}
+  m_Name: Gold Ore
+  m_EditorClassIdentifier: 
+  ItemName: Gold Ore
+  ItemInfo: 
+  ID: 6
+  TypeID: 1
+  BuyMoney: 0
+  SellMoney: 2
+  sprite: {fileID: -1988359915, guid: f46284dcbea4e1149a8277f3e9d2732e, type: 3}
+  spritearray:
+  - {fileID: -1988359915, guid: f46284dcbea4e1149a8277f3e9d2732e, type: 3}
+  - {fileID: -16414663, guid: f46284dcbea4e1149a8277f3e9d2732e, type: 3}
+  neededItem: {fileID: 11400000, guid: 564c6d0ab010d584089b2c60d8fdc3fc, type: 2}
+  Crop: {fileID: 0}
